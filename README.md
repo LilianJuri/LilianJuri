@@ -1,7 +1,7 @@
 
-[<img src="https://github.com/LilianJuri/LilianJuri/blob/main/banner-lj-png.png" alt='' height=''>]
+<img src="https://github.com/LilianJuri/LilianJuri/blob/main/banner-lj-png.png" alt='' height=''>
 
-Hola! Mi nombre es Lilian Juri y soy una estudiante de la Tecnicatura Superior en Programacion de la UTN. 
+Hola! Mi nombre es Lilian Juri y soy una estudiante de la Tecnicatura Superior en Programacion de la UTN. </br>
 Soy una Developer Trainee enfocada en tecnologias front-end, incursionando en React. 
 <!--
 **LilianJuri/LilianJuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
