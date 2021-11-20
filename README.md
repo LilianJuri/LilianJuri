@@ -1,5 +1,8 @@
-### Hi there 👋
 
+[<img src="" alt='' height=''>]
+
+Hola! Mi nombre es Lilian Juri y soy una estudiante de la Tecnicatura Superior en Programacion de la UTN. 
+Soy una Developer Trainee enfocada en tecnologias front-end, incursionando en React. 
 <!--
 **LilianJuri/LilianJuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
