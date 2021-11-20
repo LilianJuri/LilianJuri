@@ -1,13 +1,19 @@
 
 <img src="https://github.com/LilianJuri/LilianJuri/blob/main/banner-lj-png.png" alt='' height=''>
 
-Hola! Mi nombre es Lilian Juri y soy una estudiante de la Tecnicatura Superior en Programacion de la UTN. </br>
-Soy una Developer Trainee enfocada en tecnologias front-end, incursionando en React. 
+Hola! Mi nombre es Lilian Juri y soy una estudiante de la Tecnicatura Superior en Programación de la UTN. </br>
+Soy una Developer Trainee enfocada en tecnologías front-end, incursionando en React.</br></br>
+Podes comunicarte conmigo a través de mis redes sociales:
+
+[<img src="https://github.com/LilianJuri/LilianJuri/blob/main/logo-linkedin.png" alt='60' height='60'>](https://www.linkedin.com/in/lilian-juri/) &nbsp;
+[<img src="https://github.com/LilianJuri/LilianJuri/blob/main/logo-instagram.png" alt='60' height='60'>](https://www.instagram.com/lilianjuri/) &nbsp;
+[<img src="https://github.com/LilianJuri/LilianJuri/blob/main/logo-facebook.png" alt='60' height='60'>](https://www.facebook.com/lilian.juri)
+
 <!--
 **LilianJuri/LilianJuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://github.com/LilianJuri/LilianJuri/blob/main/logo-linkedin.png
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
