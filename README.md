@@ -1,5 +1,5 @@
 
-[<img src="" alt='' height=''>]
+[<img src="https://github.com/LilianJuri/LilianJuri/blob/main/banner-lj-png.png" alt='' height=''>]
 
 Hola! Mi nombre es Lilian Juri y soy una estudiante de la Tecnicatura Superior en Programacion de la UTN. 
 Soy una Developer Trainee enfocada en tecnologias front-end, incursionando en React. 
