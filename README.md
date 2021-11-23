@@ -1,5 +1,5 @@
 
-<img src="https://github.com/LilianJuri/LilianJuri/blob/main/banner-lj.png" alt='' height=''>
+<img src="https://github.com/LilianJuri/LilianJuri/blob/main/nuevo-banner-lj.png" alt='' height=''>
 
 Hola! Mi nombre es Lilian Juri y soy una estudiante de la Tecnicatura Superior en Programación de la UTN. </br>
 Soy una Developer Trainee enfocada en tecnologías front-end, incursionando en React.</br></br>
